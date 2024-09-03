@@ -6,6 +6,8 @@ let js = 60;
 let total = vvedenie + git + js; 
 let score = total/3;
 
+console.log(`This is the HWscore ${score}.`)
+
 let stName = "Ilon";
 let stSurname = "Mask";
 let fullName = stName + " " + stSurname;
